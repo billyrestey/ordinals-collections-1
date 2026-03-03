@@ -8,14 +8,6 @@
     "slug": "alkaneimperium"
   },
   {
-    "name": "Recursions by Billy Restey",
-    "type": "parent",
-    "ids": [
-      "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0"
-    ],
-    "slug": "Recursions"
-  },
-  {
     "name": "$DOG | Ordinals - SZN I Genesis",
     "type": "parent",
     "ids": [
@@ -324,12 +316,10 @@
     "slug": "commanderdoug"
   },
   {
-    "name": "Cypherglyphs",
+    "name": "Cursed Fomojis",
     "type": "gallery",
-    "id": [
-      "a499248315106e680cef68d9243a07873d632d1385fa1f2de47c36eee2e25162i0"
-    ],
-    "slug": "cypherglyphs"
+    "id": "2534a9b3c73b55a295b17754990d42db049e7d46d394cc87b3c506d93e52c4e8i0",
+    "slug": "cursed-fomojis"
   },
   {
     "name": "Dead Doges",
@@ -464,6 +454,12 @@
       "525484b62626a7a117a0319b86a736b9aa69d30d94573ddfcdb280b2dd34142ei0"
     ],
     "slug": "fluid_passes"
+  },
+  {
+    "name": "Fomojis 2.0",
+    "type": "gallery",
+    "id": "c6c11d26aaf9e1ee9d0b55060276c8e74c80a7b8ff9a1b1d9f47320f514ed489i0",
+    "slug": "fomojis-2-0"
   },
   {
     "name": "Frontline",
@@ -851,6 +847,12 @@
     "slug": "ordigallery-pass"
   },
   {
+    "name": "Ordinal Kois",
+    "type": "gallery",
+    "id": "61c77de91b9068ea13377b5e5e56bf620e36e98f2fe90be17b52b2b78feb3992i0",
+    "slug": "ordinalkois"
+  },
+  {
     "name": "Ordinal SigmaX",
     "type": "parent",
     "ids": [
@@ -951,6 +953,12 @@
     "slug": "prometheans"
   },
   {
+    "name": "Punks On Bitcoin",
+    "type": "gallery",
+    "id": "3509c34ca59354f77353dcef4ef8f6f9590ed93d2d1c2dc9682f124138748a14i0",
+    "slug": "punksonbitcoin"
+  },
+  {
     "name": "Quantum Cats",
     "type": "parent",
     "ids": [
@@ -981,6 +989,14 @@
       "3e336a4c7376df89a37c3c218a4eeec6e05fd47e14cc84c7e1db97b552e89622i0"
     ],
     "slug": "reality_exe"
+  },
+  {
+    "name": "Recursions by Billy Restey",
+    "type": "parent",
+    "ids": [
+      "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0"
+    ],
+    "slug": "recursions"
   },
   {
     "name": "Rug Lords",
@@ -1063,12 +1079,42 @@
     "slug": "sketchbook"
   },
   {
+    "name": "Skullx: Cursed Raiders",
+    "type": "gallery",
+    "id": "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i1",
+    "slug": "skullx_cursed_raiders"
+  },
+  {
+    "name": "Skullx: Cyber Raiders",
+    "type": "gallery",
+    "id": "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i0",
+    "slug": "skullx_cyber_raiders"
+  },
+  {
+    "name": "Skullx: Hell Raiders",
+    "type": "gallery",
+    "id": "666666e43b0c17b5410f1fb99fa50c3967e5e581af27e33493dacf9890521f95i0",
+    "slug": "skullx_hell_raiders"
+  },
+  {
+    "name": "Skullx: Infinite",
+    "type": "gallery",
+    "id": "666e9148906e668cd9cdf5850aa99a0c17b136aa54077260c69d03d147cd7666i0",
+    "slug": "skullx_infinite"
+  },
+  {
     "name": "Skullx: Origins",
     "type": "parent",
     "ids": [
       "f4d4424a1e52620ddc5a6d1f4b7afd29b6074650024dea92d2adfcd369ef3be7i0"
     ],
     "slug": "skullx_origins"
+  },
+  {
+    "name": "Skullx: The Artist Series",
+    "type": "gallery",
+    "id": "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i2",
+    "slug": "skullx_artist_series"
   },
   {
     "name": "skulz",
